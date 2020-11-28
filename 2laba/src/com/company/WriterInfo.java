@@ -1,6 +1,5 @@
 package com.company;
 public class WriterInfo {
-    /*private static Clothes clothes;*/// класс для вывода информации о классах на экран
     public static void main(String[] args) {
             Jacket clothes1 = new Jacket("Bershka", 170, "classical");
             System.out.println("Manufacturer: " + clothes1.getManufacturer());
